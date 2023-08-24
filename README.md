@@ -1,0 +1,4 @@
+# nsh
+
+Nate's shell.
+
